@@ -10,3 +10,5 @@ git config --global --add difftool.prompt false
 Added a new text
 Hi this is test
 Hi Modified in features/branch1
+
+Hi Modified from master to test Merge
