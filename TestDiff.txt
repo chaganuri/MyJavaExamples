@@ -14,3 +14,5 @@ Hi Modified in features/branch1
 Hi Modified from master to test Merge
 
 Hi Modified from features/branch2
+
+Mod from master for rebase test
