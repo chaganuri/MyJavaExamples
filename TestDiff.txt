@@ -8,3 +8,4 @@ git config --global merge.tool meld
 git config --global --add difftool.prompt false
 
 Added a new text
+Hi this is test
